@@ -5,6 +5,7 @@ I want to redo this project for either SQL Server or MySQL
 I don't exactly remember what each of the scripts did and will have to be investigated
 
 Table Descriptions:
+
 Manufacturer (
 ID,
 Name
