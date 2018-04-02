@@ -6,6 +6,8 @@ I don't exactly remember what each of the scripts did and will have to be invest
 
 Table Descriptions:
 
+![alt text](https://github.com/bluerosinneo/Lab-Maintenance-Database/blob/master/ER%20Diagram.png)
+
 Manufacturer (
 ID,
 Name
